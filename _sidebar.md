@@ -60,7 +60,7 @@
             - [10/23](/game/TheLegendOfHeroes/SenNoKiseki/chapters/chapter_final/README.md#_1023)
             - [10/23上午](/game/TheLegendOfHeroes/SenNoKiseki/chapters/chapter_final/README.md#_1023上午)
             - [10/23下午](/game/TheLegendOfHeroes/SenNoKiseki/chapters/chapter_final/README.md#_1023下午)
-            - [10/23黄昏(票用完前触发)](/game/TheLegendOfHeroes/SenNoKiseki/chapters/chapter_final/README.md#_1023黄昏票用完前触发)
+            - [10/23黄昏(票用完前)](/game/TheLegendOfHeroes/SenNoKiseki/chapters/chapter_final/README.md#_1023黄昏票用完前)
             - [10/23黄昏(票用完后)](/game/TheLegendOfHeroes/SenNoKiseki/chapters/chapter_final/README.md#_1023黄昏票用完后)
             - [10/24](/game/TheLegendOfHeroes/SenNoKiseki/chapters/chapter_final/README.md#_1024)
             - [10/30](/game/TheLegendOfHeroes/SenNoKiseki/chapters/chapter_final/README.md#_1030)
