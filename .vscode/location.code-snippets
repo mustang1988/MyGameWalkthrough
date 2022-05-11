@@ -37,6 +37,6 @@
 			"## Boss"
 		],
 		"scope": "markdown,md",
-		"description": "新建Location",
+		"description": "地点/迷宫模板",
 	}
 }
