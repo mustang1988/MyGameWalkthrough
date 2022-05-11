@@ -2,6 +2,8 @@
 
 ---
 
+![闪之轨迹](./images/cover.webp)
+
 - [序章 托尔兹士官学院](/game/TheLegendOfHeroes/SenNoKiseki/chapters/chapter_0/README.md#序章-托尔兹士官学院)
     - [倒叙](/game/TheLegendOfHeroes/SenNoKiseki/chapters/chapter_0/README.md#倒叙)
     - [3/31](/game/TheLegendOfHeroes/SenNoKiseki/chapters/chapter_0/README.md#_331)

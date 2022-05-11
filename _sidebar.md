@@ -64,6 +64,11 @@
             - [10/23黄昏(票用完后)](/game/TheLegendOfHeroes/SenNoKiseki/chapters/chapter_final/README.md#_1023黄昏票用完后)
             - [10/24](/game/TheLegendOfHeroes/SenNoKiseki/chapters/chapter_final/README.md#_1024)
             - [10/30](/game/TheLegendOfHeroes/SenNoKiseki/chapters/chapter_final/README.md#_1030)
+    - [闪之轨迹II](/game/TheLegendOfHeroes/SenNoKiseki2/README.md#闪之轨迹ii)
+    - [闪之轨迹III](/game/TheLegendOfHeroes/SenNoKiseki3/README.md#闪之轨迹iii)
+    - [闪之轨迹IV](/game/TheLegendOfHeroes/SenNoKiseki4/README.md#闪之轨迹iv)
+    - [创之轨迹](/game/TheLegendOfHeroes/HajimariNoKiseki/README.md#创之轨迹)
+- [东京幻都 eX+](/game/ToykoXanadu/README.md#东京幻都-ex)
 - [女神异闻录5](/game/Persona5/README.md#女神异闻录5)
     - [4月](/game/Persona5/chapters/apr/README.md#_4月)
     - [5月](/game/Persona5/chapters/may/README.md#_5月)
@@ -78,3 +83,6 @@
     - [花屋搭配](/game/Persona5/chapters/flowers/README.md#花屋搭配)
     - [双子课题](/game/Persona5/chapters/twins/README.md#双子课题)
     - [合成表](/game/Persona5/chapters/composition/README.md#合成表)
+- [艾尔登法环](/game/EldenRing/README.md#艾尔登法环)
+
+

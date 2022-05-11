@@ -2,6 +2,8 @@
 
 ---
 
+![女神异闻录5](./images/cover.webp)
+
 - [4月](/game/Persona5/chapters/apr/README.md#_4月)
 - [5月](/game/Persona5/chapters/may/README.md#_5月)
 - [6月](/game/Persona5/chapters/jun/README.md#_6月)

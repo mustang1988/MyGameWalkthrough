@@ -11,3 +11,7 @@
     - [第五章 开始行动的意志](/game/TheLegendOfHeroes/SenNoKiseki/chapters/chapter_5/README.md#第五章-开始行动的意志)
     - [第六章 黑与银 \~钢都动乱\~](/game/TheLegendOfHeroes/SenNoKiseki/chapters/chapter_6/README.md#第六章-黑与银-钢都动乱)
     - [终章 士官学院祭、然后——](/game/TheLegendOfHeroes/SenNoKiseki/chapters/chapter_final/README.md#终章-士官学院祭然后)
+- [闪之轨迹II](/game/TheLegendOfHeroes/SenNoKiseki2/README.md#闪之轨迹ii)
+- [闪之轨迹III](/game/TheLegendOfHeroes/SenNoKiseki3/README.md#闪之轨迹iii)
+- [闪之轨迹IV](/game/TheLegendOfHeroes/SenNoKiseki4/README.md#闪之轨迹iv)
+- [创之轨迹](/game/TheLegendOfHeroes/HajimariNoKiseki/README.md#创之轨迹)
