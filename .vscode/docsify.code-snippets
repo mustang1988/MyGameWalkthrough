@@ -1,0 +1,15 @@
+{
+	// 新建docsify文档模板
+	"Print to console": {
+		"scope": "markdown,md",
+		"prefix": "docsify",
+		"body": [
+			"# $0",
+			"",
+			"---",
+			"",
+			"TODO",
+		],
+		"description": "新建docsify文档模板"
+	}
+}
