@@ -1,24 +1,25 @@
 {
-		"Print to conaole": {
-			"scope": "markdown,md",
-			"prefix": "new quest",
-			"body": [
-				"# $0",
-				"",
-				"---",
-				"",
-				"## 步骤",
-				"",
-				"",
-				"",
-				"## AP",
-				"",
-				"- ",
-				"",
-				"## 奖励",
-				"",
-				"- ",
-			],
-			"description": "任务模板",
-		}
+	// 任务模板
+	"Print to conaole": {
+		"scope": "markdown,md",
+		"prefix": "new quest",
+		"body": [
+			"# $0",
+			"",
+			"---",
+			"",
+			"## 步骤",
+			"",
+			"",
+			"",
+			"## AP",
+			"",
+			"- ",
+			"",
+			"## 奖励",
+			"",
+			"- ",
+		],
+		"description": "任务模板",
+	}
 }
