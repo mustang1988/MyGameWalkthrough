@@ -2,6 +2,6 @@
 
 ---
 
-![闪之轨迹II](./images/cover.jpg)
+![闪之轨迹II](./images/cover.webp)
 
 TODO
