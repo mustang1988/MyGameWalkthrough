@@ -319,7 +319,7 @@
 
 解决之后, 跳入迷宫, 有即死和隐身的AT属性, 注意顺序
 
-*[帝都地下道·最深处](/game/TheLegendOfHeroes/SenNoKiseki/locations/帝都地下道·最深处.md#帝都地下道最深处)*
+*[帝都地下道·最深处](/game/TheLegendOfHeroes/SenNoKiseki/locations/帝都地下道·最深处.md#帝都地下道·最深处)*
 
 章节结算
 - AP: 79(总AP:261)
