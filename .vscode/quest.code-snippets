@@ -1,0 +1,24 @@
+{
+		"Print to conaole": {
+			"scope": "markdown,md",
+			"prefix": "new quest",
+			"body": [
+				"# $0",
+				"",
+				"---",
+				"",
+				"## 步骤",
+				"",
+				"",
+				"",
+				"## AP",
+				"",
+				"- ",
+				"",
+				"## 奖励",
+				"",
+				"- ",
+			],
+			"description": "新建Quest",
+		}
+}
