@@ -146,7 +146,7 @@
 
 *[北克鲁琴街道](/game/TheLegendOfHeroes/SenNoKiseki/locations/北克鲁琴街道.md#北克鲁琴街道)*
 
-目前战斗笔记总数: 34（如果遇到*电熊*为35）
+目前战斗笔记总数: 34(如果遇到*电熊*为35)
 
 前往 [奥洛克斯峡谷道](/game/TheLegendOfHeroes/SenNoKiseki/locations/奥洛克斯峡谷道.md#奥洛克斯峡谷道)
 
@@ -170,7 +170,7 @@
 
 阶段结算
 
-- AP: 12（总AP: 92）
+- AP: 12(总AP: 92)
 
 ---
 
