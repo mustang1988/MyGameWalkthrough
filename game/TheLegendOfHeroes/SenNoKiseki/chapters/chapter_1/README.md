@@ -50,11 +50,11 @@
 
 支线任务
 
-[丢失的学生手册](/game/TheLegendOfHeroes/SenNoKiseki/quests/%E4%B8%A2%E5%A4%B1%E7%9A%84%E5%AD%A6%E7%94%9F%E6%89%8B%E5%86%8C.md)
+[丢失的学生手册](/game/TheLegendOfHeroes/SenNoKiseki/quests/丢失的学生手册.md#丢失的学生手册)
 
 主线任务
 
-[配送导力器](/game/TheLegendOfHeroes/SenNoKiseki/quests/%E9%85%8D%E9%80%81%E5%AF%BC%E5%8A%9B%E5%99%A8.md)
+[配送导力器](/game/TheLegendOfHeroes/SenNoKiseki/quests/配送导力器.md#配送导力器)
 
 目前料理手册总数：1
 
@@ -66,13 +66,13 @@
 
     此时和女仆罗德对话还能获得女仆罗德人物信息 *「学习做菜」*
 
-乔治处可购买核心回路: [权杖](/game/TheLegendOfHeroes/SenNoKiseki/quartz/%E6%9D%83%E6%9D%96.md)
+乔治处可购买核心回路: [权杖](/game/TheLegendOfHeroes/SenNoKiseki/quartz/权杖.md#权杖)
 
 主线任务
 
-[调查旧校舍](/game/TheLegendOfHeroes/SenNoKiseki/quests/%E8%B0%83%E6%9F%A5%E6%97%A7%E6%A0%A1%E8%88%8D.md)
+[调查旧校舍](/game/TheLegendOfHeroes/SenNoKiseki/quests/调查旧校舍.md#调查旧校舍)
 
-*[旧校舍‧地下一层](/game/TheLegendOfHeroes/SenNoKiseki/locations/%E6%97%A7%E6%A0%A1%E8%88%8D%E2%80%A7%E5%9C%B0%E4%B8%8B%E4%B8%80%E5%B1%82.md)*
+*[旧校舍‧地下一层](/game/TheLegendOfHeroes/SenNoKiseki/locations/旧校舍‧地下一层.md#旧校舍‧地下一层)*
 
 战斗手册总数：9
 
@@ -89,7 +89,7 @@
 
 支线任务
 
-[用完的调味料调货](/game/TheLegendOfHeroes/SenNoKiseki/quests/%E7%94%A8%E5%AE%8C%E7%9A%84%E8%B0%83%E5%91%B3%E6%96%99%E8%B0%83%E8%B4%A7.md)
+[用完的调味料调货](/game/TheLegendOfHeroes/SenNoKiseki/quests/用完的调味料调货.md#用完的调味料调货)
 
 全部完成后，回第三宿舍结束这一天
 
@@ -142,23 +142,23 @@
 - *<<红曜石文库版①>>*
 - *<<红曜石文库版②>>*
 
-在靠近 [西凯尔迪克街道](/game/TheLegendOfHeroes/SenNoKiseki/locations/%E8%A5%BF%E5%87%AF%E5%B0%94%E8%BF%AA%E5%85%8B%E8%A1%97%E9%81%93.md) 入口有段小剧情
+在靠近 [西凯尔迪克街道](/game/TheLegendOfHeroes/SenNoKiseki/locations/西凯尔迪克街道.md#西凯尔迪克街道) 入口有段小剧情
 
 支线任务
 
-[收集药的材料](/game/TheLegendOfHeroes/SenNoKiseki/quests/%E6%94%B6%E9%9B%86%E8%8D%AF%E7%9A%84%E6%9D%90%E6%96%99.md)
+[收集药的材料](/game/TheLegendOfHeroes/SenNoKiseki/quests/收集药的材料.md#收集药的材料)
 
 主线任务
 
-[更换坏掉的路灯](/game/TheLegendOfHeroes/SenNoKiseki/quests/%E6%9B%B4%E6%8D%A2%E5%9D%8F%E6%8E%89%E7%9A%84%E8%B7%AF%E7%81%AF.md)
+[更换坏掉的路灯](/game/TheLegendOfHeroes/SenNoKiseki/quests/更换坏掉的路灯.md#更换坏掉的路灯)
 
 目前战斗笔记总数：16
 
-前往 [东凯尔迪克街道](/game/TheLegendOfHeroes/SenNoKiseki/locations/%E4%B8%9C%E5%87%AF%E5%B0%94%E8%BF%AA%E5%85%8B%E8%A1%97%E9%81%93.md) 
+前往 [东凯尔迪克街道](/game/TheLegendOfHeroes/SenNoKiseki/locations/东凯尔迪克街道.md#东凯尔迪克街道) 
 
 主线任务
 
-[东凯尔迪克街道的通缉魔兽](/game/TheLegendOfHeroes/SenNoKiseki/quests/%E4%B8%9C%E5%87%AF%E5%B0%94%E8%BF%AA%E5%85%8B%E8%A1%97%E9%81%93%E7%9A%84%E9%80%9A%E7%BC%89%E9%AD%94%E5%85%BD.md)
+[东凯尔迪克街道的通缉魔兽](/game/TheLegendOfHeroes/SenNoKiseki/quests/东凯尔迪克街道的通缉魔兽.md#东凯尔迪克街道的通缉魔兽)
 
 目前料理手册总数：3
 
@@ -166,7 +166,7 @@
 
 支线任务
 
-[大市集商人体验](/game/TheLegendOfHeroes/SenNoKiseki/quests/%E5%A4%A7%E5%B8%82%E9%9B%86%E5%95%86%E4%BA%BA%E4%BD%93%E9%AA%8C.md)
+[大市集商人体验](/game/TheLegendOfHeroes/SenNoKiseki/quests/大市集商人体验.md#大市集商人体验)
 
 目前战斗笔记总数：18
 
@@ -184,19 +184,19 @@
 - 和教堂外的小女孩对话
 - 和西凯尔迪克街道出口附近的醉鬼强森对话
 
-出发前往 [西凯尔迪克街道](/game/TheLegendOfHeroes/SenNoKiseki/locations/%E8%A5%BF%E5%87%AF%E5%B0%94%E8%BF%AA%E5%85%8B%E8%A1%97%E9%81%93.md)
+出发前往 [西凯尔迪克街道](/game/TheLegendOfHeroes/SenNoKiseki/locations/西凯尔迪克街道.md#西凯尔迪克街道)
 
 支线任务
 
-[遗失的钱包](/game/TheLegendOfHeroes/SenNoKiseki/quests/%E9%81%97%E5%A4%B1%E7%9A%84%E9%92%B1%E5%8C%85.md)
+[遗失的钱包](/game/TheLegendOfHeroes/SenNoKiseki/quests/遗失的钱包.md#遗失的钱包)
 
-[西凯尔迪克街道的通缉魔兽](/game/TheLegendOfHeroes/SenNoKiseki/quests/%E8%A5%BF%E5%87%AF%E5%B0%94%E8%BF%AA%E5%85%8B%E8%A1%97%E9%81%93%E7%9A%84%E9%80%9A%E7%BC%89%E9%AD%94%E5%85%BD.md)
+[西凯尔迪克街道的通缉魔兽](/game/TheLegendOfHeroes/SenNoKiseki/quests/西凯尔迪克街道的通缉魔兽.md#西凯尔迪克街道的通缉魔兽)
 
 目前战斗手册总数：19
 
 在西凯尔迪克街道2·农家与罗宾对话可获得 *<<红月的罗赛·第3卷>>*
 
-前往 [露纳利亚自然公园](/game/TheLegendOfHeroes/SenNoKiseki/locations/%E9%9C%B2%E7%BA%B3%E5%88%A9%E4%BA%9A%E8%87%AA%E7%84%B6%E5%85%AC%E5%9B%AD.md) 触发剧情，进入该区域
+前往 [露纳利亚自然公园](/game/TheLegendOfHeroes/SenNoKiseki/locations/露纳利亚自然公园.md#露纳利亚自然公园) 触发剧情，进入该区域
 
 回复点再往前到达自然公园·最深处，BOSS二连战
 

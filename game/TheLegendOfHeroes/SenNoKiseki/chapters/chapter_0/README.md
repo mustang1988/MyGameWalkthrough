@@ -30,7 +30,7 @@ A组的成员分别是男主角、劳拉、尤西斯、艾玛、盖乌斯。
 
 剧情后进入迷宫
 
-*[旧校舍‧地下区块](/game/TheLegendOfHeroes/SenNoKiseki/locations/旧校舍‧地下区块.md)*
+*[旧校舍‧地下区块](/game/TheLegendOfHeroes/SenNoKiseki/locations/旧校舍‧地下区块.md#旧校舍‧地下区块)*
 
 > 目前还没有S技而且不能使用LINK
 
