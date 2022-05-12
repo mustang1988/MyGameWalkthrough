@@ -253,7 +253,33 @@
 
 之后安洁莉卡加入队伍，获得 *安洁莉卡 人物信息「喜爱的师傅」*
 
+*[地下通道](/game/TheLegendOfHeroes/SenNoKiseki/locations/地下通道.md#地下通道)*
+
 地形非常简单，一条路通到底
+
+目前战斗笔记总数：167
+
+*[札克森铁矿山·第3坑道](/game/TheLegendOfHeroes/SenNoKiseki/locations/札克森铁矿山·第3坑道.md#札克森铁矿山第3坑道)*
+
+目前战斗笔记总数：170
+
+*[札克森铁矿山·搬运区域](/game/TheLegendOfHeroes/SenNoKiseki/locations/札克森铁矿山·搬运区域.md#札克森铁矿山搬运区域)*
+
+目前战斗笔记总数：172
+
+到搬运区域的回复点后，小BOSS战
+
+继续前进，剧情后克洛离开队伍
+
+*[札克森铁矿山·中介区域](/game/TheLegendOfHeroes/SenNoKiseki/locations/札克森铁矿山·中介区域.md#札克森铁矿山中介区域)*
+
+战斗后剧情
+
+结算
+- 满AP：68（总AP：399）
+- 料理手册：17
+- 钓鱼手册：19
+- 战斗手册：180
 
 ---
 
