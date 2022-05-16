@@ -69,8 +69,8 @@
             - [人物信息](/game/TheLegendOfHeroes/SenNoKiseki/characters/README.md#人物信息)
             - [书籍信息](/game/TheLegendOfHeroes/SenNoKiseki/books/README.md#书籍信息)
             - [钓鱼笔记](/game/TheLegendOfHeroes/SenNoKiseki/fish/README.md#钓鱼笔记)
-            - [食谱](/game/TheLegendOfHeroes/SenNoKiseki/recipes/食谱.md#食谱)
-            - [任务](/game/TheLegendOfHeroes/SenNoKiseki/quests/任务.md#任务)
+            - [食谱](/game/TheLegendOfHeroes/SenNoKiseki/recipes/README.md#食谱)
+            - [任务](/game/TheLegendOfHeroes/SenNoKiseki/quests/README.md#任务)
             - [核心回路](/game/TheLegendOfHeroes/SenNoKiseki/quartz/README.md#核心回路)
 
     - [闪之轨迹II](/game/TheLegendOfHeroes/SenNoKiseki2/README.md#闪之轨迹ii)
