@@ -245,6 +245,7 @@
 主线任务
 
 - [海姆达尔港的通缉魔兽](/game/TheLegendOfHeroes/SenNoKiseki/quests/海姆达尔港的通缉魔兽.md#海姆达尔港的通缉魔兽)
+    [帝都地下水道](/game/TheLegendOfHeroes/SenNoKiseki/locations/帝都地下水道.md#帝都地下水道)
 
 目前战斗笔记总数: 100
 

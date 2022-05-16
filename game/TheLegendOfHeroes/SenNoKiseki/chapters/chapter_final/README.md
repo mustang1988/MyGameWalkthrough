@@ -13,8 +13,8 @@
 主校舍1F学院长室与梵戴克学院长对话领取 *獅子心英雄章*
 
 前提是前面3个徽章都拿了, 然后让你选择两个核心回路二选一
-- [x] 骑士
-- [ ] 雷神
+- [x] [骑士](/game/TheLegendOfHeroes/SenNoKiseki/quartz/骑士.md#骑士)
+- [ ] [雷神](/game/TheLegendOfHeroes/SenNoKiseki/quartz/雷神.md#雷神)
 
 前面是莎拉教官自带的, 后面是碧轨里面的骑士回路, 二周目记得选另一个来获得 *核心迴路收藏家* 这个奖杯
 
@@ -31,6 +31,8 @@
 获得 *仙道珠* 和奖杯 *爆釣王*
 
 奖励了核心回路 [红莲](/game/TheLegendOfHeroes/SenNoKiseki/quartz/红莲.md#红莲)
+
+肯尼斯处可以使用500钓鱼点数兑换核心回路: [大蛇](/game/TheLegendOfHeroes/SenNoKiseki/quartz/大蛇.md#大蛇)
 
 兑换的物品也增加。记得把稀有的都换了，有三个是和最终武器有关
 
