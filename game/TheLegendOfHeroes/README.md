@@ -13,6 +13,13 @@
     - [第五章 开始行动的意志](/game/TheLegendOfHeroes/SenNoKiseki/chapters/chapter_5/README.md#第五章-开始行动的意志)
     - [第六章 黑与银 \~钢都动乱\~](/game/TheLegendOfHeroes/SenNoKiseki/chapters/chapter_6/README.md#第六章-黑与银-钢都动乱)
     - [终章 士官学院祭、然后——](/game/TheLegendOfHeroes/SenNoKiseki/chapters/chapter_final/README.md#终章-士官学院祭然后)
+    - 附录
+        - [人物信息](/game/TheLegendOfHeroes/SenNoKiseki/characters/README.md#人物信息)
+        - [书籍信息](/game/TheLegendOfHeroes/SenNoKiseki/books/README.md#书籍信息)
+        - [钓鱼笔记](/game/TheLegendOfHeroes/SenNoKiseki/fish/README.md#钓鱼笔记)
+        - [食谱](/game/TheLegendOfHeroes/SenNoKiseki/recipes/食谱.md#食谱)
+        - [任务](/game/TheLegendOfHeroes/SenNoKiseki/quests/任务.md#任务)
+        - [核心回路](/game/TheLegendOfHeroes/SenNoKiseki/quartz/README.md#核心回路)
 
 ---
 
