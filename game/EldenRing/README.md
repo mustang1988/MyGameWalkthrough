@@ -5,7 +5,7 @@
 ![艾尔登法环](./images/cover.webp)
 
 - [武器](/game/EldenRing/Weapons/README.md#武器)
-    - 传说中的武器
+    - [传说中的武器](/game/EldenRing/Weapons/Legendary/README.md#传说中的武器)
         - [夜与火之剑](/game/EldenRing/Weapons/Legendary/夜与火之剑.md#夜与火之剑)
         - [玛雷家行刑剑](/game/EldenRing/Weapons/Legendary/玛雷家行刑剑.md#玛雷家行刑剑)
         - [黄金律法大剑](/game/EldenRing/Weapons/Legendary/黄金律法大剑.md#黄金律法大剑)
@@ -15,8 +15,11 @@
         - [日蚀钩剑](/game/EldenRing/Weapons/Legendary/日蚀钩剑.md#日蚀钩剑)
         - [吞噬权杖](/game/EldenRing/Weapons/Legendary/吞噬权杖.md#吞噬权杖)
         - [古兰桑克斯的雷电](/game/EldenRing/Weapons/Legendary/古兰桑克斯的雷电.md#古兰桑克斯的雷电)
+    - [非传说武器](/game/EldenRing/Weapons/Normal/README.md#非传说武器)
+        - [普通武器](/game/EldenRing/Weapons/Normal/Normal.md#普通武器)
+        - [失色武器](/game/EldenRing/Weapons/Normal/Somber.md#失色武器)
 - [骨灰](/game/EldenRing/SpiritAshes/README.md#骨灰)
-    - 传说中的骨灰
+    - [传说中的骨灰](/game/EldenRing/SpiritAshes/Legendary/README.md#传说中的骨灰)
         - [仿身泪滴的骨灰](/game/EldenRing/SpiritAshes/Legendary/仿身泪滴的骨灰.md#仿身泪滴的骨灰)
         - ["黑刀"狄希](/game/EldenRing/SpiritAshes/Legendary/黑刀狄希.md#黑刀狄希)
         - ["尊腐骑士"芬雷](/game/EldenRing/SpiritAshes/Legendary/尊腐骑士芬雷.md#尊腐骑士芬雷)
@@ -24,13 +27,13 @@
         - ["红狮子骑士"奥加](/game/EldenRing/SpiritAshes/Legendary/红狮子骑士奥加.md#红狮子骑士奥加)
         - ["古龙骑士"克里斯托福](/game/EldenRing/SpiritAshes/Legendary/古龙骑士克里斯托福.md#古龙骑士克里斯托福)
 - [魔法](/game/EldenRing/Magics/README.md#魔法)
-    - 传说中的魔法
+    - [传说中的魔法](/game/EldenRing/Magics/Legendary/README.md#传说中的魔法)
         - [彗星亚兹勒](/game/EldenRing/Magics/Legendary/彗星亚兹勒.md#彗星亚兹勒)
         - [毁灭流星](/game/EldenRing/Magics/Legendary/毁灭流星.md#毁灭流星)
         - [创星雨](/game/EldenRing/Magics/Legendary/创星雨.md#创星雨)
         - [菈妮的暗月](/game/EldenRing/Magics/Legendary/菈妮的暗月.md#菈妮的暗月)
 - [祷告](/game/EldenRing/Pray/README.md#祷告)
-    - 传说中的祷告
+    - [传说中的祷告](/game/EldenRing/Pray/Legendary/README.md#传说中的祷告)
         - [艾尔登流星](/game/EldenRing/Pray/Legendary/艾尔登流星.md#艾尔登流星)
         - [恶神火焰](/game/EldenRing/Pray/Legendary/恶神火焰.md#恶神火焰)
         - [桂奥尔的咆哮](/game/EldenRing/Pray/Legendary/桂奥尔的咆哮.md#桂奥尔的咆哮)

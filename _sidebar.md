@@ -184,8 +184,8 @@
             - [吞噬权杖](/game/EldenRing/Weapons/Legendary/吞噬权杖.md#吞噬权杖)
             - [古兰桑克斯的雷电](/game/EldenRing/Weapons/Legendary/古兰桑克斯的雷电.md#古兰桑克斯的雷电)
         - [非传说武器](/game/EldenRing/Weapons/Normal/README.md#非传说武器)
-            - [普通武器]()
-            - [失色武器]()
+            - [普通武器](/game/EldenRing/Weapons/Normal/Normal.md#普通武器)
+            - [失色武器](/game/EldenRing/Weapons/Normal/Somber.md#失色武器)
     - [骨灰](/game/EldenRing/SpiritAshes/README.md#骨灰)
         - 传说中的骨灰
             - [仿身泪滴的骨灰](/game/EldenRing/SpiritAshes/Legendary/仿身泪滴的骨灰.md#仿身泪滴的骨灰)
