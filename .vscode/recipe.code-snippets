@@ -1,0 +1,18 @@
+{
+	// 食谱模板
+	"Print to console": {
+		"scope": "markdown,md",
+		"prefix": "recipe",
+		"body": [
+			"# $1",
+			"",
+			"---",
+			"",
+			"## 独门料理人",
+			"",
+			"- $2",
+			"",
+		],
+		"description": "食谱模板"
+	}
+}

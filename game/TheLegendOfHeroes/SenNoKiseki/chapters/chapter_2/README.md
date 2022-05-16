@@ -41,7 +41,7 @@
 - [ ]艾玛(书店)
 
 到书店购买
-- [x]*<<老子的料理·三明治>>*, 使用后习得食谱 *番茄三明治*
+- [x]*<<老子的料理·三明治>>*, 使用后习得食谱 *「[番茄三明治](/game/TheLegendOfHeroes/SenNoKiseki/recipes/番茄三明治.md#番茄三明治)」*
 - [x]*<<帝国时报·第2号>>*
 - [x]*<<古流弓术指南>>*, 使用后亚莉莎LINK经验值+50
 - [x]*<<暖洋洋的午睡天>>*, 使用后菲LINK经验值+50
@@ -130,7 +130,7 @@
 中央广场近贵族街靠边楼梯下有钓鱼点
 - 虹鳟鱼
 
-左边的贵族街的宅邸2, 和罗娜对话, 能得到料理: *风味药草茶*
+左边的贵族街的宅邸2, 和罗娜对话, 能得到料理: *「[风味药草茶](/game/TheLegendOfHeroes/SenNoKiseki/recipes/风味药草茶.md#风味药草茶)」*
 
 目前料理手册总数: 5
 
@@ -188,6 +188,7 @@
 
 - [护送旅行者](/game/TheLegendOfHeroes/SenNoKiseki/quests/护送旅行者.md#护送旅行者)
 - [怀念的菜色](/game/TheLegendOfHeroes/SenNoKiseki/quests/怀念的菜色.md#怀念的菜色)
+    - 获得食谱 *「[香草巧达汤](/game/TheLegendOfHeroes/SenNoKiseki/recipes/香草巧达汤.md#香草巧达汤)」*
 
 主线任务
 

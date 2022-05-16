@@ -53,6 +53,7 @@
 主线任务
 
 - [配送导力器](/game/TheLegendOfHeroes/SenNoKiseki/quests/配送导力器.md#配送导力器)
+    - 获得 *「料理手册」* 同时学会食谱 *「[简单蛋包饭](/game/TheLegendOfHeroes/SenNoKiseki/recipes/简单蛋包饭.md#简单蛋包饭)」*
 
 目前料理手册总数: 1
 
@@ -121,7 +122,7 @@
 
 到达交易镇, 安顿下来后, 接到任务
 
-和酒场的老板娘对话可获得 甜蜜饼干x3, 食谱*甜蜜饼干*
+和酒场的老板娘对话可获得 甜蜜饼干x3, 食谱*[甜蜜饼干](/game/TheLegendOfHeroes/SenNoKiseki/recipes/甜蜜饼干.md#甜蜜饼干)*
 
 目前料理手册总数: 2
 
@@ -152,6 +153,7 @@
 主线任务
 
 - [东凯尔迪克街道的通缉魔兽](/game/TheLegendOfHeroes/SenNoKiseki/quests/东凯尔迪克街道的通缉魔兽.md#东凯尔迪克街道的通缉魔兽)
+    - 第2步, 与屋内的齐赛尔对话获得料理食谱 *「[鲜榨果汁](/game/TheLegendOfHeroes/SenNoKiseki/recipes/鲜榨果汁.md#鲜榨果汁)」*
 
 目前料理手册总数: 3
 

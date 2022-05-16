@@ -62,7 +62,7 @@
 
 体育馆内和罗金斯对话获得 *罗金斯 人物信息「桀骜不驯的过去」*
 
-学生会馆1F和里面的厨师拉姆齐对话习得 *卡仕达布丁*
+学生会馆1F和里面的厨师拉姆齐对话习得 *「[卡仕达布丁](/game/TheLegendOfHeroes/SenNoKiseki/recipes/卡仕达布丁.md#卡仕达布丁)」*
 
 目前料理手册总数：13
 
@@ -187,7 +187,7 @@ AP获得要求
 
 到达雷格拉姆后，先前往游击士协会支部剧情
 
-酒馆《杏桃》和瑟莉亚对话两次，学会料理 *凉风通心粉*
+酒馆《杏桃》和瑟莉亚对话两次，学会料理 *「[凉风通心粉](/game/TheLegendOfHeroes/SenNoKiseki/recipes/凉风通心粉.md#凉风通心粉)」*
 
 目前料理手册总数：14
 
@@ -293,7 +293,7 @@ AP获得要求
 
 *[加雷利亚要塞](/game/TheLegendOfHeroes/SenNoKiseki/locations/加雷利亚要塞.md#加雷利亚要塞)*
 
-加雷利亚要塞・士兵宿舍区域可获得食谱: *军式烩饭*
+加雷利亚要塞・士兵宿舍区域可获得食谱: *「[军式烩饭](/game/TheLegendOfHeroes/SenNoKiseki/recipes/军式烩饭.md#军式烩饭)」*
 
 目前料理手册总数：15
 

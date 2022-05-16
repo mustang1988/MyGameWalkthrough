@@ -67,7 +67,7 @@
 
 在1楼厨房和女仆雪伦有小对话剧情
 
-在食品杂货《布兰敦商店》后面的托里斯塔民家内与汉娜对话习得料理 *梅果塔*
+在食品杂货《布兰敦商店》后面的托里斯塔民家内与汉娜对话习得料理 *「[梅果塔](/game/TheLegendOfHeroes/SenNoKiseki/recipes/梅果塔.md#梅果塔)」*
 
 目前料理手册总数: 7
 
@@ -190,7 +190,7 @@
 
 ## 6/27
 
-第二天一早剧情后与边上的希妲对话, 可以学会料理 *鲜奶粥*
+第二天一早剧情后与边上的希妲对话, 可以学会料理 *「[鲜奶粥](/game/TheLegendOfHeroes/SenNoKiseki/recipes/鲜奶粥.md#鲜奶粥)」*
 
 目前料理手册总数: 8
 
@@ -212,6 +212,9 @@
 
 - [寻找药草](/game/TheLegendOfHeroes/SenNoKiseki/quests/寻找药草.md#寻找药草)
 - [坚达门的请托](/game/TheLegendOfHeroes/SenNoKiseki/quests/坚达门的请托.md#坚达门的请托)
+    - 在食堂内与马克斯对话两次习得食谱 *「[酥脆披萨](/game/TheLegendOfHeroes/SenNoKiseki/recipes/酥脆披萨.md#酥脆披萨)」*
+    
+目前料理手册总数：9
 
 目前战斗笔记总数: 66
 
