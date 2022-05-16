@@ -1,0 +1,19 @@
+{
+	// EldenRing武器模板
+	"Print to console": {
+		"scope": "markdown,md",
+		"prefix": "weapon",
+		"body": [
+			"# $1",
+			"",
+			"---",
+			"",
+			"![$1](../images/$1.png)",
+			"",
+			"## 获取方式",
+			"",
+			"$2"
+		],
+		"description": "EldenRing武器模板"
+	}
+}

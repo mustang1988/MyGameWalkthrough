@@ -13,3 +13,5 @@
     - [吞噬权杖](/game/EldenRing/Weapons/Legendary/吞噬权杖.md#吞噬权杖)
     - [古兰桑克斯的雷电](/game/EldenRing/Weapons/Legendary/古兰桑克斯的雷电.md#古兰桑克斯的雷电)
 - [非传说武器](/game/EldenRing/Weapons/Normal/README.md#非传说武器)
+    - [普通武器](/game/EldenRing/Weapons/Normal/Normal/README.md#普通武器)
+    - [失色武器](/game/EldenRing/Weapons/Normal/Somber/README.md#失色武器)
