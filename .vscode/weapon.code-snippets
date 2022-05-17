@@ -1,5 +1,5 @@
 {
-	// EldenRing武器模板
+	// Elden Ring 武器模板
 	"Print to console": {
 		"scope": "markdown,md",
 		"prefix": "weapon",
@@ -14,6 +14,6 @@
 			"",
 			"$2"
 		],
-		"description": "EldenRing武器模板"
+		"description": "Elden Ring 武器模板"
 	}
 }

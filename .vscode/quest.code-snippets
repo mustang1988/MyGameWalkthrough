@@ -1,8 +1,8 @@
 {
-	// 任务模板
+	// 闪之轨迹任务模板
 	"Print to conaole": {
 		"scope": "markdown,md",
-		"prefix": "new quest",
+		"prefix": "quest_sen1",
 		"body": [
 			"# $0",
 			"",
@@ -20,6 +20,6 @@
 			"",
 			"- ",
 		],
-		"description": "任务模板",
+		"description": "闪之轨迹任务模板",
 	}
 }

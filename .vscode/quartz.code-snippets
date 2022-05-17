@@ -1,8 +1,8 @@
 {
-	// 核心回路模板
+	// 闪之轨迹核心回路模板
 	"Print to console": {
 		"scope": "markdown,md",
-		"prefix": "quartz",
+		"prefix": "quartz_sen1",
 		"body": [
 			"# $0",
 			"",
@@ -125,6 +125,6 @@
 			"",
 			"---"
 		],
-		"description": "核心回路模板"
+		"description": "闪之轨迹核心回路模板"
 	}
 }

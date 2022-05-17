@@ -1,5 +1,5 @@
 {
-	// 食谱模板
+	// 英雄传说 食谱模板
 	"Print to console": {
 		"scope": "markdown,md",
 		"prefix": "recipe",
@@ -13,6 +13,6 @@
 			"- $2",
 			"",
 		],
-		"description": "食谱模板"
+		"description": "英雄传说 食谱模板"
 	}
 }

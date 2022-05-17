@@ -1,7 +1,7 @@
 {
-	// 地点/迷宫模板
+	// 英雄传说 地点/迷宫模板
 	"Print to conaole": {
-		"prefix": "new location",
+		"prefix": "location",
 		"body": [
 			"# $0",
 			"",
@@ -22,6 +22,6 @@
 			"## Boss"
 		],
 		"scope": "markdown,md",
-		"description": "地点/迷宫模板",
+		"description": "英雄传说 地点/迷宫模板",
 	}
 }
