@@ -6,3 +6,4 @@
     - [毁灭流星](/game/EldenRing/Magics/Legendary/毁灭流星.md#毁灭流星)
     - [创星雨](/game/EldenRing/Magics/Legendary/创星雨.md#创星雨)
     - [菈妮的暗月](/game/EldenRing/Magics/Legendary/菈妮的暗月.md#菈妮的暗月)
+- [非传说魔法](/game/EldenRing/Magics/Normal/README.md#非传说魔法)
