@@ -33,7 +33,7 @@
 
 学生会馆可以买到 *<<帝国时报·第6号>>*
 
-技术栋乔治处可购买核心回路：[魔盒](/game/TheLegendOfHeroes/SenNoKiseki/quartz/魔盒.md#魔盒)
+技术栋乔治处可购买核心回路：*[魔盒](/game/TheLegendOfHeroes/SenNoKiseki/quartz/魔盒.md#魔盒)*
 
 之前钓鱼点都有钓鱼的话，应该能升级为黒竿钓师
 

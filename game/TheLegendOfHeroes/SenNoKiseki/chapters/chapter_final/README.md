@@ -13,14 +13,14 @@
 主校舍1F学院长室与梵戴克学院长对话领取 *獅子心英雄章*
 
 前提是前面3个徽章都拿了, 然后让你选择两个核心回路二选一
-- [x] [骑士](/game/TheLegendOfHeroes/SenNoKiseki/quartz/骑士.md#骑士)
-- [ ] [雷神](/game/TheLegendOfHeroes/SenNoKiseki/quartz/雷神.md#雷神)
+- [x] <span id="骑士">*[骑士](/game/TheLegendOfHeroes/SenNoKiseki/quartz/骑士.md#骑士)*<span>
+- [ ] <span id="雷神">*[雷神](/game/TheLegendOfHeroes/SenNoKiseki/quartz/雷神.md#雷神)*<span>
 
 前面是莎拉教官自带的, 后面是碧轨里面的骑士回路, 二周目记得选另一个来获得 *核心迴路收藏家* 这个奖杯
 
 技术栋和乔治对话获得 *乔治 人物信息「导力机车的羁绊」*
 
-乔治处可买到核心回路：[丛云](/game/TheLegendOfHeroes/SenNoKiseki/quartz/丛云.md#丛云)
+乔治处可买到核心回路：<span id="丛云">*[丛云](/game/TheLegendOfHeroes/SenNoKiseki/quartz/丛云.md#丛云)*<span>
 
 之前的鱼都钓的话, 钓满19种鱼可以到小镇的钓鱼点与肯尼斯对话, 然后再钓鱼
 
@@ -30,9 +30,9 @@
 
 获得 *仙道珠* 和奖杯 *爆釣王*
 
-奖励了核心回路 [红莲](/game/TheLegendOfHeroes/SenNoKiseki/quartz/红莲.md#红莲)
+奖励了核心回路 <span id="红莲">*[红莲](/game/TheLegendOfHeroes/SenNoKiseki/quartz/红莲.md#红莲)*</span>
 
-肯尼斯处可以使用500钓鱼点数兑换核心回路: [大蛇](/game/TheLegendOfHeroes/SenNoKiseki/quartz/大蛇.md#大蛇)
+肯尼斯处可以使用500钓鱼点数兑换核心回路: <span id="大蛇">*[大蛇](/game/TheLegendOfHeroes/SenNoKiseki/quartz/大蛇.md#大蛇)*</span>
 
 兑换的物品也增加。记得把稀有的都换了，有三个是和最终武器有关
 
@@ -180,7 +180,7 @@
 
 然后到技术栋可以合成最强武器，之前的「塞姆利亚石的碎片」记得换
 
-到主校舍2F料理教室，和玛格丽特对话两次让他看收集全的料理手册获得核心回路 [贤者](/game/TheLegendOfHeroes/SenNoKiseki/quartz/贤者.md#贤者)
+到主校舍2F料理教室，和玛格丽特对话两次让他看收集全的料理手册获得核心回路: *[贤者](/game/TheLegendOfHeroes/SenNoKiseki/quartz/贤者.md#贤者)*
 
 旧校舍第7层部分机关需用四大属性才能开启，推荐尤西斯、马奇亚斯一起上
 

@@ -22,7 +22,7 @@
 
 图书馆2楼可以喂猫
 
-技术栋乔治处可购买核心回路：[巨石](/game/TheLegendOfHeroes/SenNoKiseki/quartz/巨石.md#巨石)
+技术栋乔治处可购买核心回路：<span id="巨石">*[巨石](/game/TheLegendOfHeroes/SenNoKiseki/quartz/巨石.md#巨石)*</span>
 
 离开学校剧情，结束这天
 

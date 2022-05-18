@@ -65,7 +65,7 @@
             - [10/23黄昏(票用完后)](/game/TheLegendOfHeroes/SenNoKiseki/chapters/chapter_final/README.md#_1023黄昏票用完后)
             - [10/24](/game/TheLegendOfHeroes/SenNoKiseki/chapters/chapter_final/README.md#_1024)
             - [10/30](/game/TheLegendOfHeroes/SenNoKiseki/chapters/chapter_final/README.md#_1030)
-        - 附录
+        - [附录](/game/TheLegendOfHeroes/SenNoKiseki/附录.md#附录)
             - [人物信息](/game/TheLegendOfHeroes/SenNoKiseki/characters/README.md#人物信息)
             - [书籍信息](/game/TheLegendOfHeroes/SenNoKiseki/books/README.md#书籍信息)
             - [钓鱼笔记](/game/TheLegendOfHeroes/SenNoKiseki/fish/README.md#钓鱼笔记)

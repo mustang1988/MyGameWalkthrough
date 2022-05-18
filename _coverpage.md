@@ -1,3 +1,4 @@
+<!-- 4x2表格 -->
 |||||
 |:-:|:-:|:-:|:-:|
 |[![](./game/TheLegendOfHeroes/SenNoKiseki/images/cover.jpg ":size=500")](/game/TheLegendOfHeroes/SenNoKiseki/README.md#闪之轨迹)|[![](./game/TheLegendOfHeroes/SenNoKiseki2/images/cover.webp ":size=500")](/game/TheLegendOfHeroes/SenNoKiseki2/README.md#闪之轨迹ii)|[![](./game/TheLegendOfHeroes/SenNoKiseki3/images/cover.webp ":size=500") ](/game/TheLegendOfHeroes/SenNoKiseki3/README.md#闪之轨迹iii)|[![](./game/TheLegendOfHeroes/SenNoKiseki4/images/cover.webp ":size=500")](/game/TheLegendOfHeroes/SenNoKiseki4/README.md#闪之轨迹iv)|

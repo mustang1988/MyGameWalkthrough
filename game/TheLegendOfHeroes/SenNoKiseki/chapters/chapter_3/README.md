@@ -33,7 +33,7 @@
 - 并可以兑换新的道具, 有个*青龙刃* 很不错, 推荐一定要换
 - 钓鱼点更新, 可以用新钓鱼竿去试试
 
-技术栋可购买核心回路: [无限](/game/TheLegendOfHeroes/SenNoKiseki/quartz/无限.md#无限)
+技术栋可购买核心回路: *[无限](/game/TheLegendOfHeroes/SenNoKiseki/quartz/无限.md#无限)*
 
 都触发完毕后, 有6组同学自习(6选3)
 

@@ -65,7 +65,7 @@
 
     此时和女仆罗德对话还能获得 *女仆罗德人物信息「学习做菜」*
 
-工坊乔治处可购买核心回路: [权杖](/game/TheLegendOfHeroes/SenNoKiseki/quartz/权杖.md#权杖)
+技术栋乔治处可购买核心回路: *[权杖](/game/TheLegendOfHeroes/SenNoKiseki/quartz/权杖.md#权杖)*
 
 主线任务
 

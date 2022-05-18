@@ -20,7 +20,7 @@
 
 学生会馆2F与肯尼斯对话获得 *肯尼斯 人物信息「兄长与钓皇」* 
 
-技术栋乔治处可购买核心回路: [罪恶](/game/TheLegendOfHeroes/SenNoKiseki/quartz/罪恶.md#罪恶)
+技术栋乔治处可购买核心回路: *[罪恶](/game/TheLegendOfHeroes/SenNoKiseki/quartz/罪恶.md#罪恶)*
 
 靠近操场的时候有小剧情, 在仓库角落触发艾玛的剧情, 这个剧情结束后, 和艾玛的羁绊值上升, 并且获得 *艾玛 人物信息「瑟蕾奴」*
 
@@ -245,7 +245,8 @@
 主线任务
 
 - [海姆达尔港的通缉魔兽](/game/TheLegendOfHeroes/SenNoKiseki/quests/海姆达尔港的通缉魔兽.md#海姆达尔港的通缉魔兽)
-    [帝都地下水道](/game/TheLegendOfHeroes/SenNoKiseki/locations/帝都地下水道.md#帝都地下水道)
+    
+*[帝都地下水道](/game/TheLegendOfHeroes/SenNoKiseki/locations/帝都地下水道.md#帝都地下水道)*
 
 目前战斗笔记总数: 100
 
