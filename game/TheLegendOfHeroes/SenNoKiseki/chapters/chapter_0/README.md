@@ -30,11 +30,11 @@ A组的成员分别是男主角、劳拉、尤西斯、艾玛、盖乌斯,
 
 剧情后进入迷宫
 
-*[旧校舍‧地下区块](/game/TheLegendOfHeroes/SenNoKiseki/locations/旧校舍‧地下区块.md#旧校舍‧地下区块)*
+*[旧校舍‧地下区块](/game/TheLegendOfHeroes/SenNoKiseki/locations/旧校舍‧地下区块.md#旧校舍地下区块)*
 
 > 目前还没有S技而且不能使用LINK
 
-*旧校舍‧地下区块2* 时会遇到尤西斯, 这时会出现两个分支
+*[旧校舍‧地下区块2](/game/TheLegendOfHeroes/SenNoKiseki/locations/旧校舍‧地下区块.md#旧校舍地下区块2)* 时会遇到尤西斯, 这时会出现两个分支
 
 * 叫尤西斯注意(结果: 尤西斯离开)
 * 制止马奇亚斯(结果: 马奇亚斯离开)
