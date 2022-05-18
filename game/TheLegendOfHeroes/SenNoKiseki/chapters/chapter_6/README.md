@@ -10,7 +10,7 @@
 
 ## 9/18
 
-自由行动后，主校舍2F和科蕾特对话获得    *科蕾特 人物信息「美食探险家」*
+自由行动后，主校舍2F和科蕾特对话获得  *科蕾特 人物信息「美食探险家」*
 
 下楼和文森对话获得 *文森 人物信息「可惜的贵公子」*
 
@@ -65,12 +65,12 @@
 支线任务
 
 - [亲手下厨做礼物](/game/TheLegendOfHeroes/SenNoKiseki/quests/亲手下厨做礼物.md#亲手下厨做礼物)
-    - 获得 *敏特 人物信息「外甥女手作料理」*
+  - 获得 *敏特 人物信息「外甥女手作料理」*
 
 主线任务
 
 - [个人委托](/game/TheLegendOfHeroes/SenNoKiseki/quests/个人委托.md#个人委托)
-    - 获得 *安洁莉卡 人物信息「泰斗流」*
+  - 获得 *安洁莉卡 人物信息「泰斗流」*
 
 - [调查旧校舍](/game/TheLegendOfHeroes/SenNoKiseki/quests/调查旧校舍5.md#调查旧校舍)
 
@@ -96,7 +96,7 @@
 支线任务
 
 - [管家的秘密](/game/TheLegendOfHeroes/SenNoKiseki/quests/管家的秘密.md#管家的秘密)
-    - 猜错未获取额外AP请读档
+  - 猜错未获取额外AP请读档
 
 到主校舍2F，进入端末室。这里两个选项随便选, 仅剧情都有小部分不同
 - 选择「戳她的脸颊叫醒她」会听见托娃会长说梦话
@@ -162,7 +162,7 @@
 支线任务
 
 - [ARCUS信号强度调查](/game/TheLegendOfHeroes/SenNoKiseki/quests/ARCUS信号强度调查.md#ARCUS信号强度调查)
-    - 再对话获得 *马卡洛夫教官 人物信息「辉煌的过去」*
+  - 再对话获得 *马卡洛夫教官 人物信息「辉煌的过去」*
 
 - [史匹那小径通缉魔兽](/game/TheLegendOfHeroes/SenNoKiseki/quests/史匹那小径通缉魔兽.md#史匹那小径通缉魔兽)
 

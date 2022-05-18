@@ -86,13 +86,13 @@
 羁绊事件
 
 - 此时可以羁绊的对象有(7选3)
-    - [x] 亚莉莎, 获得*雪伦 人物信息「情同姐妹」*
-    - [x] 劳拉, 获得*劳拉 人物信息「咪西」*
-    - [x] 托娃, 获得*托娃人物信息「优秀的学生会长」* 
-    - [ ] 尤西斯, 获得*尤西斯 人物信息「照料马匹」* 
-    - [ ] 艾略特
-    - [ ] 马奇亚斯
-    - [ ] 菲
+  - [x] 亚莉莎, 获得*雪伦 人物信息「情同姐妹」*
+  - [x] 劳拉, 获得*劳拉 人物信息「咪西」*
+  - [x] 托娃, 获得*托娃人物信息「优秀的学生会长」* 
+  - [ ] 尤西斯, 获得*尤西斯 人物信息「照料马匹」* 
+  - [ ] 艾略特
+  - [ ] 马奇亚斯
+  - [ ] 菲
 
 !> 注: 因为一周目只能攻略3人, 但是有4人可以获得人物信息, 因此二周目要注意选择之前被落下的
 
@@ -212,8 +212,8 @@
 
 - [寻找药草](/game/TheLegendOfHeroes/SenNoKiseki/quests/寻找药草.md#寻找药草)
 - [坚达门的请托](/game/TheLegendOfHeroes/SenNoKiseki/quests/坚达门的请托.md#坚达门的请托)
-    - 在食堂内与马克斯对话两次习得食谱 *「[酥脆披萨](/game/TheLegendOfHeroes/SenNoKiseki/recipes/酥脆披萨.md#酥脆披萨)」*
-    
+  - 在食堂内与马克斯对话两次习得食谱 *「[酥脆披萨](/game/TheLegendOfHeroes/SenNoKiseki/recipes/酥脆披萨.md#酥脆披萨)」*
+  
 目前料理手册总数：9
 
 目前战斗笔记总数: 66
@@ -230,8 +230,8 @@
 
 - [孩子们的特别课程](/game/TheLegendOfHeroes/SenNoKiseki/quests/孩子们的特别课程.md#孩子们的特别课程)
 - [搜索迷路的羊](/game/TheLegendOfHeroes/SenNoKiseki/quests/搜索迷路的羊.md#搜索迷路的羊)
-    - 牵最后一只羊时有战斗, 但非常简单, 别忘记探查魔物资料
-    - 顺便到坚达门食堂, 触发隐藏任务: [感情的桥梁](/game/TheLegendOfHeroes/SenNoKiseki/quests/感情的桥梁.md#感情的桥梁)
+  - 牵最后一只羊时有战斗, 但非常简单, 别忘记探查魔物资料
+  - 顺便到坚达门食堂, 触发隐藏任务: [感情的桥梁](/game/TheLegendOfHeroes/SenNoKiseki/quests/感情的桥梁.md#感情的桥梁)
 - [感情的桥梁](/game/TheLegendOfHeroes/SenNoKiseki/quests/感情的桥梁.md#感情的桥梁)
 
 和伊凡长老对话后, 可前往[诺尔德高原·北部](/game/TheLegendOfHeroes/SenNoKiseki/locations/诺尔德高原·北部.md#诺尔德高原北部), 记得牵回3只羊回去找瓦塔利报告支线任务[搜索迷路的羊](/game/TheLegendOfHeroes/SenNoKiseki/quests/搜索迷路的羊.md#搜索迷路的羊)

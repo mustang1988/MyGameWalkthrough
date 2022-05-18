@@ -68,13 +68,13 @@
 支线任务
 
 - [青梅竹马的心意](/game/TheLegendOfHeroes/SenNoKiseki/quests/青梅竹马的心意.md#青梅竹马的心意)
-    - 获得*艾伦人物信息「在变强之前」*
-    - 获得*布莱希特人物信息「与青梅竹马和解」*
+  - 获得*艾伦人物信息「在变强之前」*
+  - 获得*布莱希特人物信息「与青梅竹马和解」*
 - [举发偷拍照](/game/TheLegendOfHeroes/SenNoKiseki/quests/举发偷拍照.md#举发偷拍照)
-    - 获得*裴德烈的人物信息「社长的责任」*
+  - 获得*裴德烈的人物信息「社长的责任」*
 - [游泳训练](/game/TheLegendOfHeroes/SenNoKiseki/quests/游泳训练.md#游泳训练)
-    > 此任务一定要完成前面2个支线才会出现, 到主校舍1楼办公室找奈特哈尔教官认领
-    - 获得*奈特哈尔教官的人物信息「斯巴达式教官」*
+  > 此任务一定要完成前面2个支线才会出现, 到主校舍1楼办公室找奈特哈尔教官认领
+  - 获得*奈特哈尔教官的人物信息「斯巴达式教官」*
 
 主线任务
 
@@ -104,7 +104,7 @@
 支线任务
 
 - [东方式的笔](/game/TheLegendOfHeroes/SenNoKiseki/quests/东方式的笔.md#东方式的笔)
-    - 获得*梵戴克学院长的人物信息「雅好阅读」*
+  - 获得*梵戴克学院长的人物信息「雅好阅读」*
 
 离开校园时剧情, 黎恩妹妹爱丽榭登场, 剧情后, 要去寻找她
 
@@ -197,14 +197,14 @@
 支线任务
 
 - [琥珀之爱](/game/TheLegendOfHeroes/SenNoKiseki/quests/琥珀之爱.md#琥珀之爱)
-    - 步骤4, 艾姆罗德可换到*深邃之黄*等抗异常高级饰品, 建议换一些, 初级饰品可在凯旋大道的商店买到
+  - 步骤4, 艾姆罗德可换到*深邃之黄*等抗异常高级饰品, 建议换一些, 初级饰品可在凯旋大道的商店买到
 
 主线任务
 
 - [协助仲夏节相关采访](/game/TheLegendOfHeroes/SenNoKiseki/quests/协助仲夏节相关采访.md#协助仲夏节相关采访)
 - [遗落的手工帽子](/game/TheLegendOfHeroes/SenNoKiseki/quests/遗落的手工帽子.md#遗落的手工帽子)
 - [帝都地下道的通缉魔兽](/game/TheLegendOfHeroes/SenNoKiseki/quests/帝都地下道的通缉魔兽.md#帝都地下道的通缉魔兽)
-    - [帝都地下道东区](/game/TheLegendOfHeroes/SenNoKiseki/locations/帝都地下道东区.md#帝都地下道东区)
+  - [帝都地下道东区](/game/TheLegendOfHeroes/SenNoKiseki/locations/帝都地下道东区.md#帝都地下道东区)
 
 离开迷宫前最好把两个女生的CP补满, 什么HP、攻防加成的回路尽力装上
 
@@ -245,7 +245,7 @@
 主线任务
 
 - [海姆达尔港的通缉魔兽](/game/TheLegendOfHeroes/SenNoKiseki/quests/海姆达尔港的通缉魔兽.md#海姆达尔港的通缉魔兽)
-    
+  
 *[帝都地下水道](/game/TheLegendOfHeroes/SenNoKiseki/locations/帝都地下水道.md#帝都地下水道)*
 
 目前战斗笔记总数: 100

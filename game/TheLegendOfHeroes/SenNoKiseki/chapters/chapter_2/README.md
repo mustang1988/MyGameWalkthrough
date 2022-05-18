@@ -55,7 +55,7 @@
 支线任务
 
 - [代课老师的请托](/game/TheLegendOfHeroes/SenNoKiseki/quests/代课老师的请托.md#代课老师的请托)
-    - 获得 *克连人物信息「重视家人」*
+  - 获得 *克连人物信息「重视家人」*
 - [配送教官用图书](/game/TheLegendOfHeroes/SenNoKiseki/quests/配送教官用图书.md#配送教官用图书)
 
 主线任务
@@ -91,8 +91,8 @@
 支线任务
 
 - [领取鲜花](/game/TheLegendOfHeroes/SenNoKiseki/quests/领取鲜花.md#领取鲜花)
-    - *获得 琳黛人物信息「双胞胎姐妹」*
-    - *获得 薇薇人物信息「双胞胎姐妹」*
+  - *获得 琳黛人物信息「双胞胎姐妹」*
+  - *获得 薇薇人物信息「双胞胎姐妹」*
 
 回宿舍
 
@@ -188,7 +188,7 @@
 
 - [护送旅行者](/game/TheLegendOfHeroes/SenNoKiseki/quests/护送旅行者.md#护送旅行者)
 - [怀念的菜色](/game/TheLegendOfHeroes/SenNoKiseki/quests/怀念的菜色.md#怀念的菜色)
-    - 获得食谱 *「[香草巧达汤](/game/TheLegendOfHeroes/SenNoKiseki/recipes/香草巧达汤.md#香草巧达汤)」*
+  - 获得食谱 *「[香草巧达汤](/game/TheLegendOfHeroes/SenNoKiseki/recipes/香草巧达汤.md#香草巧达汤)」*
 
 主线任务
 
