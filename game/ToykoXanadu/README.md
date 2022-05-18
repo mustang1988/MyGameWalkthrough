@@ -2,7 +2,7 @@
 
 ---
 
-![东京幻都 eX+](./images/cover.webp)
+![东京幻都 eX+](./images/cover.jpeg)
 
 - [第1话「异界化」](/game/ToykoXanadu/chapters/chapter_1/README.md#第1话异界化)
 - [第1话 支线故事 「白影」](/game/ToykoXanadu/chapters/chapter_1_ex/README.md#第1话-支线故事-白影)
