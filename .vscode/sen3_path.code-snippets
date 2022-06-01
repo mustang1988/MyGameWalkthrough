@@ -1,0 +1,11 @@
+{
+	// 闪之轨迹4 路径快速输入
+	"Print to console": {
+		"scope": "markdown,md",
+		"prefix": "sen4_path",
+		"body": [
+			"/game/TheLegendOfHeroes/SenNoKiseki4/"
+		],
+		"description": "闪之轨迹4 路径快速输入"
+	}
+}
