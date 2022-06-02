@@ -813,7 +813,7 @@ Boss战
 
 主线任务
 
-- [消失的罗赞贝尔克人偶](/game/TheLegendOfHeroes/SenNoKiseki4/quartz/消失的罗赞贝尔克人偶.md#消失的罗赞贝尔克人偶)
+- [消失的罗赞贝尔克人偶](/game/TheLegendOfHeroes/SenNoKiseki4/quests/消失的罗赞贝尔克人偶.md#消失的罗赞贝尔克人偶)
 
 完成第一个主线任务后接到通知，先继续任务
 
